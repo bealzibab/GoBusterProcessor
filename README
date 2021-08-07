@@ -1,0 +1,6 @@
+GoBusterProcessor
+
+Hello World,
+This is my first commit to github, it's a basic script which automates the filtering of the gobuster output file.
+Please remember to use the -z command for no progress message, and the --no-error args, as well as -o, so that you
+have clear output in your file.
